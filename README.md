@@ -1,45 +1,36 @@
-<h1 align="center">Hi there 👋, I'm Devansh Mishra</h1>
+<h1 align="center">Hi, I'm Devansh Mishra 👋</h1>
+<h3 align="center">A developer crafting solutions with a passion for building and problem-solving</h3>
 
-<p align="center">
-  🚀 A passionate <b>Developer</b> & <b>AI/ML Enthusiast</b> <br/>
-  Currently pursuing my <b>B.Tech in Computer Science</b> with specialization in <b>AIML</b>.
-</p>
+💻 About Me
+🌱 I’m currently deepening my knowledge in C and Java to build robust and efficient systems.
 
-<p align="center">
-  I love solving <b>real-world problems</b> through code and building <b>innovative solutions</b>.  
-  Always eager to learn, experiment, and stay up-to-date with the latest technologies.
-</p>
+👨‍💻 My strongest skills are in Python, JavaScript, and TypeScript, with a solid foundation in web technologies like HTML and CSS.
 
----
+🚀 I'm passionate about exploring backend and systems development, and crafting elegant solutions to real-world problems.
 
-### 🛠️ Tech Stack & Tools  
+📫 You can reach me at: dmdevanshpvt19@gmail.com
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
+🛠️ My Tech Stack
+<div align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Badge">
+</div>
 
----
+📈 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dmdevansh19&show_icons=true&theme=radical" alt="Devansh's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmdevansh19&layout=compact&theme=radical" alt="Top Languages">
+</div>
 
-### 📊 GitHub Analytics  
+🤪 Fun Fact
+My code works perfectly on the first try... in my head. Then reality hits 😅
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmdevansh19&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmdevansh19&layout=compact&theme=dark&hide_border=true" height="160" alt="Top Languages"/>
-</p>
+🔗 Connect with Me
+🌐 My GitHub Profile
 
----
-
-### 📫 Let’s Connect  
-
-<p align="center">
-  <a href="mailto:dmdevanshpvt19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
+📧 dmdevanshpvt19@gmail.com
